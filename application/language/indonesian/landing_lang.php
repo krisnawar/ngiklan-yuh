@@ -1,0 +1,34 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['landing_title']          = 'Ngiklan Yuh';
+$lang['menu']                   = 'Menu';
+$lang['menu_home']              = 'Home';
+$lang['menu_about_us']          = 'Tentang Kami';
+$lang['menu_features']          = 'Kelebihan';
+$lang['menu_contact']           = 'Kontak';
+$lang['menu_login']             = 'Login';
+$lang['menu_logout']            = 'Logout';
+$lang['menu_register']          = 'Daftar';
+$lang['menu_admin']             = 'Admin';
+$lang['header_heading']         = 'Segera daftarkan diri anda dan ajukan iklan anda!';
+$lang['header_button']          = 'Daftar Sekarang';
+$lang['about_us_heading']       = 'Tentang Kami';
+$lang['about_us_subheading']    = 'Sekilas tentang Ngiklan-Yuh by Radio IN FM Kebumen';
+$lang['about_us_text_muted']    = 'Misi kami adalah menjadi media penyedia jasa pengiklanan lewat radio yang aman, murah dan terpercaya di Kebumen.';
+$lang['features_heading']       = 'Solusi Kebutuhan Iklan Anda';
+$lang['features_subheading']    = 'Karena promosi merupakan hal terpenting dalam proses pemasaran suatu produk dan kegiatan.';
+$lang['features_1']             = 'Akses Dimana Saja';
+$lang['features_1_sub']         = 'Tidak perlu datang terlalu cepat ke kantor kami, akses informasi dan daftarkan iklan anda disini!';
+$lang['features_2']             = 'Banyak Pilihan Paket';
+$lang['features_2_sub']         = 'Kami menyediakan banyak pilihan paket untuk kebutuhan iklan anda!';
+$lang['features_3']             = 'Laporan dan Bukti Siar';
+$lang['features_3_sub']         = 'Para pengiklan berhak mendapatkan laporan berupa bukti siar.';
+$lang['features_4']             = 'Layanan Tanya Jawab';
+$lang['features_4_sub']         = 'Anda bisa tanyakan apa saja seputar pengiklanan kami ke contact person yang tersedia!';
+$lang['cta_heading']            = 'Berhenti menunggu.<br>Mulailah beriklan.';
+$lang['cta_button']             = 'Ajukan Iklan';
+$lang['contact_heading']        = ' Kunjungi Media Sosial Kami! ';
+$lang['footer_copyright']       = '&copy; Ngiklan Yuh 2019. All Rights Reserved.';
+$lang['footer_2']               = 'Part of IN FM Kebumen | "Pancen Nggo Kebumen"';
+$lang['footer_3']               = 'Dibuat dengan penuh <i class="fa fa-heart"></i> di Kebumen.';
